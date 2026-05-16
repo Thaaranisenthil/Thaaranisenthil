@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Thaaranisenthil
 - 👀 I’m interested in data science
-- 🌱 I’m currently learning nothing
-- 💞️ I’m looking to collaborate on well learned datascience teacher
+- 💞️ I’m looking to collaborate on well learned datascience
 - 📫 How to reach me thaaranisenthilt@gmail.com
 
 <!---
